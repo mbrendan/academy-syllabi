@@ -28,12 +28,12 @@
 
 ## Moderator Feedback
 
+- "I'm not sure I have anything to suggest to Brendan… he's a very strong moderator. The only thing I can think of is that our optional readings were not included in our PDF, which was disappointing as some were hard to get."
 - "Great system for including people. People spoke mostly about their experiences and not as much about the text."
 - "I would have enforced the two minute rule, and required people to be more responsive to the moderator's questions or one another. There was a lot of commentary that didn't move the ball forward."
 - "My sense is the room leaned optimist towards AI but with caveats and concerns. I think this was sufficient divergence for good conversation but something to consider."
 - "Given the breadth of topics and knowledge in the room, defining terms and providing foundational context would have helped more and we adapted by day three."
 - "Our session was a bit different because one of the authors of one of our readings was a seminar participant, as were the moderator's immediate colleagues. It made for a very tangible discussion on the last day, so it was a strength."
-- "I'm not sure I have anything to suggest to Brendan… he's a very strong moderator. The only thing I can think of is that our optional readings were not included in our PDF, which was disappointing as some were hard to get."
 
 ---
 
