@@ -30,7 +30,7 @@ Cosmos Institute has run seminars across multiple formats and venues, testing di
 | [On Society](seminars/mercatus-society.md) | Mercatus Center | Fellowship | 6 sessions | Austin, TX |
 | [On Politics](seminars/mercatus-politics.md) | Mercatus Center | Fellowship | 6 sessions | Austin, TX |
 
-*Cosmos invited, did not organize
+*\*Cosmos invited, did not organize*
 
 ---
 
