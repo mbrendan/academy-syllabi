@@ -19,23 +19,23 @@ Cosmos Institute has run seminars across multiple formats and venues, testing di
 
 | Program | Partner | Format | Duration | Location |
 |---------|---------|--------|----------|----------|
-| [Oxford 2024](seminars/oxford-2024.md) | University of Oxford | Graduate seminar | 8 weeks | Oxford |
-| [Oxford 2025](seminars/oxford-2025.md) | University of Oxford | Graduate seminar | 8 weeks | Oxford |
+| [Oxford 2024](seminars/oxford-2024.md) | University of Oxford | Graduate seminar | 8 weeks | Oxford, UK |
+| [Oxford 2025](seminars/oxford-2025.md) | University of Oxford | Graduate seminar | 8 weeks | Oxford, UK |
 | [Aspen 2024](seminars/aspen-2024.md) | Aspen Institute | Executive seminar | 3 days | Aspen, CO |
 | [Intellectual Origins of Tech](seminars/origins-of-tech.md) | — | Reading group | 9 sessions | Austin, TX / Virtual |
 | [AI & Human Autonomy](seminars/liberty-fund-autonomy.md) | Liberty Fund | Colloquium | 5 sessions | London |
-| [AI & Science](seminars/liberty-fund-science.md) | Liberty Fund | Colloquium | 3 sessions | TBD |
+| [AI and the Republic of Science](seminars/liberty-fund-science.md) | Liberty Fund | Colloquium | 3 sessions | Austin, TX |
 | [On Markets](seminars/mercatus-markets.md) | Mercatus Center | Fellowship seminar | 6 sessions | Austin, TX |
 | [On Society](seminars/mercatus-society.md) | Mercatus Center | Fellowship seminar | 6 sessions | Austin, TX |
 | [On Politics](seminars/mercatus-politics.md) | Mercatus Center | Fellowship seminar | 6 sessions | Austin, TX |
 
 ---
 
-## Course Structure
+## v0 Course Structure
 
-The IHS master document synthesizes learnings from all seminars into a proposed 5-module course:
+This document synthesizes learnings from all seminars into a proposed 5-module course:
 
-→ [**Master Course Structure**](course-structure/ihs-master-course.md)
+→ [**Draft Course Structure**](course-structure/ihs-master-course.md)
 
 **Modules:**
 1. Intellectual Origins of Tech
@@ -46,17 +46,10 @@ The IHS master document synthesizes learnings from all seminars into a proposed 
 
 ---
 
-## Reference Materials
+## The Philosopher-Builder
 
-- [Harvey Lederman — Core Curriculum Proposal](reference/harvey-core-curriculum.md)
-
----
-
-## The Philosopher-Builder Vision
-
-> Great leaps in science and technology came from people who refuse to accept inertia... The types of people we need—philosopher-builders—and their inquiry and entrepreneurial endeavors won't happen in a vacuum.
-
-Inquiry has always been supported by institutional structures that facilitate collaborative investigation: from Aristotle's Lyceum, to Franklin's Junto, to the Republic of Letters. The Academy follows in this tradition—creating spaces where deep questioning and practical building occur in concert.
+- [Essay: The Philosopher-Builder](https://brendanmccord.substack.com/p/the-philosopher-builder)
+- [Video: cosmos-institute.org](https://www.cosmos-institute.org)
 
 ---
 
@@ -74,12 +67,6 @@ academy-syllabi/
 │   ├── mercatus-markets.md
 │   ├── mercatus-society.md
 │   └── mercatus-politics.md
-├── course-structure/
-│   └── ihs-master-course.md
-└── reference/
-    └── harvey-core-curriculum.md
+└── course-structure/
+    └── ihs-master-course.md
 ```
-
----
-
-*Built with Claude Code. Last updated January 2026.*

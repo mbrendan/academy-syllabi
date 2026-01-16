@@ -1,8 +1,8 @@
-# Liberty Fund Colloquium: AI and Science
+# Liberty Fund Colloquium: AI and the Republic of Science
 
 **Format:** Colloquium
 **Duration:** 3 sessions
-**Location:** TBD
+**Location:** Austin, TX
 **Partners:** Liberty Fund and Cosmos Institute
 
 ---
