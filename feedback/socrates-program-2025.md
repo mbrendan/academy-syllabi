@@ -1,8 +1,15 @@
 # Feedback: Socrates Program 2025
 
 **Program:** Will AI Bring A New Enlightenment or Digital Despotism?
+
 **Moderator:** Brendan McCord
+
 **Partner:** Aspen Institute
+
+---
+
+> "Your seminar rated the highest for likelihood to recommend the experience to a friend – a high measure of quality in our estimation."
+> — Aspen Institute
 
 ---
 
@@ -38,6 +45,7 @@
 - "Ways of looking at challenge of agency and thinking about how to think about when to apply AI tools and when not, better ability to ask technical and fundamental questions as we build tools."
 - "I have a fuller context now for aspects of my work and some philosophical frameworks to consider."
 - "More of my learning has undoubtedly been about philosophy, and there's no doubt that I will be able to use that in my work, although exactly how remains to be seen!"
+- "One approach that really stood out to me was the use of name tags, where participants could flip them to indicate they wanted to speak. I found this method to be an effective way to encourage participation and ensure that everyone had a chance to contribute."
 
 ---
 
