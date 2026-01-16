@@ -25,10 +25,12 @@ Cosmos Institute has run seminars across multiple formats and venues, testing di
 | [Intellectual Origins of Tech](seminars/origins-of-tech.md) | — | Reading group | 9 sessions | Austin, TX |
 | [AI & Human Autonomy](seminars/liberty-fund-autonomy.md) | Liberty Fund | Colloquium | 5 sessions | London |
 | [AI & the Republic of Science](seminars/liberty-fund-science.md) | Liberty Fund | Colloquium | 2 sessions | Austin, TX |
-| [AI & Technosocialism](seminars/liberty-fund-technosocialism.md) | Liberty Fund | Colloquium | 6 sessions | Savannah, GA |
+| [AI & Technosocialism](seminars/liberty-fund-technosocialism.md)* | Liberty Fund | Colloquium | 6 sessions | Savannah, GA |
 | [On Markets](seminars/mercatus-markets.md) | Mercatus Center | Fellowship | 6 sessions | Austin, TX |
 | [On Society](seminars/mercatus-society.md) | Mercatus Center | Fellowship | 6 sessions | Austin, TX |
 | [On Politics](seminars/mercatus-politics.md) | Mercatus Center | Fellowship | 6 sessions | Austin, TX |
+
+*Cosmos invited, did not organize
 
 ---
 
