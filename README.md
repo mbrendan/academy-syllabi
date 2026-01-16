@@ -76,10 +76,10 @@ This document synthesizes learnings from all seminars into a proposed 5-module c
 
 Participant feedback from select programs:
 
-| Program | Recommend to Friend | Key Insight |
-|---------|---------------------|-------------|
-| [Oxford 2025](feedback/oxford-2025.md) | High | "Connecting theory with practice... affords a rare opportunity for people from a philosophy background to turn their academic interests into an area of real ethical puzzles" |
-| [Socrates Program 2025](feedback/socrates-program-2025.md) | 4.64/5 | "An expectation that AI research shops invest in and use philosophy to guide decision making" |
+| Program | Recommend to Friend |
+|---------|---------------------|
+| [Oxford 2025](feedback/oxford-2025.md) | High |
+| [Socrates Program 2025](feedback/socrates-program-2025.md) | 4.64/5 |
 
 ---
 
