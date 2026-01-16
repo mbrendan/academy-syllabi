@@ -2,7 +2,7 @@
 
 **Format:** Fellowship reading seminar
 **Duration:** 6 sessions
-**Location:** Washington, DC
+**Location:** Austin, TX
 **Partner:** Mercatus Center at George Mason University
 
 ---

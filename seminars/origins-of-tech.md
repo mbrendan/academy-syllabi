@@ -2,7 +2,7 @@
 
 **Format:** Reading group
 **Duration:** 9 sessions
-**Location:** Virtual
+**Location:** Austin, TX / Virtual
 
 ---
 

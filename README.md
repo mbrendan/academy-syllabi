@@ -1,6 +1,6 @@
-# Cosmos Academy — Syllabi & Course Materials
+# Cosmos Institute — Syllabi & Course Materials
 
-A living collection of seminar syllabi, reading lists, and course structures developed through Cosmos Institute programs. These materials inform the design of **Academy NYC**.
+A living collection of seminar syllabi, reading lists, and course structures developed through Cosmos Institute programs.
 
 ## Overview
 
@@ -11,19 +11,41 @@ Cosmos Institute has run seminars across multiple formats and venues, testing di
 - Truth-seeking and epistemic institutions
 - Decentralization and distributed systems
 - The intellectual origins of technology
+- The philosopher-builder
 
 ---
 
 ## Seminars
 
+### Oxford Graduate Seminars
+
+| Program | Duration | Location |
+|---------|----------|----------|
+| [Oxford 2024](seminars/oxford-2024.md) | 8 weeks | University of Oxford |
+| [Oxford 2025](seminars/oxford-2025.md) | 8 weeks | University of Oxford |
+
+### Executive & Reading Programs
+
 | Program | Format | Duration | Location |
 |---------|--------|----------|----------|
-| [Oxford 2025](seminars/oxford-2025.md) | Academic seminar | 8 weeks | Oxford University |
-| [Oxford 2024](seminars/oxford-2024.md) | Academic seminar | 8 weeks | Oxford University |
 | [Aspen Institute](seminars/aspen-2024.md) | Executive seminar | 3 days | Aspen, CO |
-| [Origins of Tech](seminars/origins-of-tech.md) | Reading group | 9 sessions | Virtual |
-| [Liberty Fund — Autonomy](seminars/liberty-fund-autonomy.md) | Colloquium | 5 sessions | London |
-| [Mercatus Mill Fellowship — Markets](seminars/mercatus-markets.md) | Fellowship | 6 sessions | Washington, DC |
+| [Intellectual Origins of Tech](seminars/origins-of-tech.md) | Reading group | 9 sessions | Austin, TX / Virtual |
+
+### Liberty Fund Colloquia
+
+| Program | Duration | Location |
+|---------|----------|----------|
+| [AI & Human Autonomy](seminars/liberty-fund-autonomy.md) | 5 sessions | London |
+| AI & Central Planning (Boettke) | 3 sessions | *Coming soon* |
+| Science & Progress | 3 sessions | *Coming soon* |
+
+### Mercatus Mill Fellowship
+
+| Module | Duration | Location |
+|--------|----------|----------|
+| [Markets](seminars/mercatus-markets.md) | 6 sessions | Austin, TX |
+| Society | 6 sessions | *Coming soon* |
+| Politics | 6 sessions | *Coming soon* |
 
 ---
 
@@ -61,8 +83,8 @@ Inquiry has always been supported by institutional structures that facilitate co
 ```
 academy-syllabi/
 ├── seminars/
-│   ├── oxford-2025.md
 │   ├── oxford-2024.md
+│   ├── oxford-2025.md
 │   ├── aspen-2024.md
 │   ├── origins-of-tech.md
 │   ├── liberty-fund-autonomy.md
