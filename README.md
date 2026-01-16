@@ -17,35 +17,17 @@ Cosmos Institute has run seminars across multiple formats and venues, testing di
 
 ## Seminars
 
-### Oxford Graduate Seminars
-
-| Program | Duration | Location |
-|---------|----------|----------|
-| [Oxford 2024](seminars/oxford-2024.md) | 8 weeks | University of Oxford |
-| [Oxford 2025](seminars/oxford-2025.md) | 8 weeks | University of Oxford |
-
-### Executive & Reading Programs
-
-| Program | Format | Duration | Location |
-|---------|--------|----------|----------|
-| [Aspen Institute](seminars/aspen-2024.md) | Executive seminar | 3 days | Aspen, CO |
-| [Intellectual Origins of Tech](seminars/origins-of-tech.md) | Reading group | 9 sessions | Austin, TX / Virtual |
-
-### Liberty Fund Colloquia
-
-| Program | Duration | Location |
-|---------|----------|----------|
-| [AI & Human Autonomy](seminars/liberty-fund-autonomy.md) | 5 sessions | London |
-| AI & Central Planning (Boettke) | 3 sessions | *Coming soon* |
-| Science & Progress | 3 sessions | *Coming soon* |
-
-### Mercatus Mill Fellowship
-
-| Module | Duration | Location |
-|--------|----------|----------|
-| [Markets](seminars/mercatus-markets.md) | 6 sessions | Austin, TX |
-| Society | 6 sessions | *Coming soon* |
-| Politics | 6 sessions | *Coming soon* |
+| Program | Partner | Format | Duration | Location |
+|---------|---------|--------|----------|----------|
+| [Oxford 2024](seminars/oxford-2024.md) | University of Oxford | Graduate seminar | 8 weeks | Oxford |
+| [Oxford 2025](seminars/oxford-2025.md) | University of Oxford | Graduate seminar | 8 weeks | Oxford |
+| [Aspen 2024](seminars/aspen-2024.md) | Aspen Institute | Executive seminar | 3 days | Aspen, CO |
+| [Intellectual Origins of Tech](seminars/origins-of-tech.md) | — | Reading group | 9 sessions | Austin, TX / Virtual |
+| [AI & Human Autonomy](seminars/liberty-fund-autonomy.md) | Liberty Fund | Colloquium | 5 sessions | London |
+| [AI & Science](seminars/liberty-fund-science.md) | Liberty Fund | Colloquium | 3 sessions | TBD |
+| [On Markets](seminars/mercatus-markets.md) | Mercatus Center | Fellowship seminar | 6 sessions | Austin, TX |
+| [On Society](seminars/mercatus-society.md) | Mercatus Center | Fellowship seminar | 6 sessions | Austin, TX |
+| [On Politics](seminars/mercatus-politics.md) | Mercatus Center | Fellowship seminar | 6 sessions | Austin, TX |
 
 ---
 
@@ -88,7 +70,10 @@ academy-syllabi/
 │   ├── aspen-2024.md
 │   ├── origins-of-tech.md
 │   ├── liberty-fund-autonomy.md
-│   └── mercatus-markets.md
+│   ├── liberty-fund-science.md
+│   ├── mercatus-markets.md
+│   ├── mercatus-society.md
+│   └── mercatus-politics.md
 ├── course-structure/
 │   └── ihs-master-course.md
 └── reference/
