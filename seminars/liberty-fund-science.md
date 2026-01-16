@@ -1,4 +1,4 @@
-# Liberty Fund Colloquium: AI and the Republic of Science
+# Liberty Fund Colloquium: AI & the Republic of Science
 
 **Format:** Colloquium
 **Duration:** 3 sessions

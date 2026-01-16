@@ -19,15 +19,15 @@ Cosmos Institute has run seminars across multiple formats and venues, testing di
 
 | Program | Partner | Format | Duration | Location |
 |---------|---------|--------|----------|----------|
-| [Oxford 2024](seminars/oxford-2024.md) | University of Oxford | Graduate seminar | 8 weeks | Oxford, UK |
-| [Oxford 2025](seminars/oxford-2025.md) | University of Oxford | Graduate seminar | 8 weeks | Oxford, UK |
+| [Oxford 2024](seminars/oxford-2024.md) | University of Oxford | Grad seminar | 8 weeks | Oxford, UK |
+| [Oxford 2025](seminars/oxford-2025.md) | University of Oxford | Grad seminar | 8 weeks | Oxford, UK |
 | [Aspen 2024](seminars/aspen-2024.md) | Aspen Institute | Executive seminar | 3 days | Aspen, CO |
-| [Intellectual Origins of Tech](seminars/origins-of-tech.md) | — | Reading group | 9 sessions | Austin, TX / Virtual |
+| [Intellectual Origins of Tech](seminars/origins-of-tech.md) | — | Reading group | 9 sessions | Austin, TX |
 | [AI & Human Autonomy](seminars/liberty-fund-autonomy.md) | Liberty Fund | Colloquium | 5 sessions | London |
-| [AI and the Republic of Science](seminars/liberty-fund-science.md) | Liberty Fund | Colloquium | 3 sessions | Austin, TX |
-| [On Markets](seminars/mercatus-markets.md) | Mercatus Center | Fellowship seminar | 6 sessions | Austin, TX |
-| [On Society](seminars/mercatus-society.md) | Mercatus Center | Fellowship seminar | 6 sessions | Austin, TX |
-| [On Politics](seminars/mercatus-politics.md) | Mercatus Center | Fellowship seminar | 6 sessions | Austin, TX |
+| [AI & the Republic of Science](seminars/liberty-fund-science.md) | Liberty Fund | Colloquium | 3 sessions | Austin, TX |
+| [On Markets](seminars/mercatus-markets.md) | Mercatus Center | Fellowship | 6 sessions | Austin, TX |
+| [On Society](seminars/mercatus-society.md) | Mercatus Center | Fellowship | 6 sessions | Austin, TX |
+| [On Politics](seminars/mercatus-politics.md) | Mercatus Center | Fellowship | 6 sessions | Austin, TX |
 
 ---
 
@@ -48,8 +48,9 @@ This document synthesizes learnings from all seminars into a proposed 5-module c
 
 ## The Philosopher-Builder
 
-- [Essay: The Philosopher-Builder](https://brendanmccord.substack.com/p/the-philosopher-builder)
-- [Video: The Philosopher-Builder](https://www.youtube.com/watch?v=H_g0RSSo0ho)
+[![Essay: The Philosopher-Builder](https://substack-post-media.s3.amazonaws.com/public/images/7b5ccc4d-88f1-4cb8-9ea4-011ef698be18_1500x1000.jpeg)](https://blog.cosmos-institute.org/p/the-philosopher-builder)
+
+[![Video: The Philosopher-Builder](https://img.youtube.com/vi/H_g0RSSo0ho/maxresdefault.jpg)](https://www.youtube.com/watch?v=H_g0RSSo0ho)
 
 ---
 
