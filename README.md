@@ -49,7 +49,7 @@ This document synthesizes learnings from all seminars into a proposed 5-module c
 ## The Philosopher-Builder
 
 - [Essay: The Philosopher-Builder](https://brendanmccord.substack.com/p/the-philosopher-builder)
-- [Video: cosmos-institute.org](https://www.cosmos-institute.org)
+- [Video: The Philosopher-Builder](https://www.youtube.com/watch?v=H_g0RSSo0ho)
 
 ---
 
