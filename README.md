@@ -52,21 +52,17 @@ This document synthesizes learnings from all seminars into a proposed 5-module c
   <tr>
     <td align="center" width="50%">
       <a href="https://blog.cosmos-institute.org/p/the-philosopher-builder">
-        <img src="https://substack-post-media.s3.amazonaws.com/public/images/7b5ccc4d-88f1-4cb8-9ea4-011ef698be18_1500x1000.jpeg" width="300" alt="The Philosopher-Builder Essay"/>
+        <img src="https://substack-post-media.s3.amazonaws.com/public/images/7b5ccc4d-88f1-4cb8-9ea4-011ef698be18_1500x1000.jpeg" width="300" height="169" style="object-fit: cover;" alt="The Philosopher-Builder Essay"/>
       </a>
       <br/>
-      <a href="https://blog.cosmos-institute.org/p/the-philosopher-builder"><b>The Philosopher-Builder</b></a>
-      <br/>
-      <sub>Essay</sub>
+      <a href="https://blog.cosmos-institute.org/p/the-philosopher-builder"><b>Essay: The Philosopher-Builder</b></a>
     </td>
     <td align="center" width="50%">
       <a href="https://www.youtube.com/watch?v=H_g0RSSo0ho">
-        <img src="https://img.youtube.com/vi/H_g0RSSo0ho/maxresdefault.jpg" width="300" alt="The Philosopher-Builder Video"/>
+        <img src="https://img.youtube.com/vi/H_g0RSSo0ho/maxresdefault.jpg" width="300" height="169" style="object-fit: cover;" alt="The Philosopher-Builder Video"/>
       </a>
       <br/>
-      <a href="https://www.youtube.com/watch?v=H_g0RSSo0ho"><b>The Philosopher-Builder</b></a>
-      <br/>
-      <sub>Video</sub>
+      <a href="https://www.youtube.com/watch?v=H_g0RSSo0ho"><b>Video: The Philosopher-Builder</b></a>
     </td>
   </tr>
 </table>
