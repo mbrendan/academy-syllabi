@@ -25,6 +25,7 @@ Cosmos Institute has run seminars across multiple formats and venues, testing di
 | [Intellectual Origins of Tech](seminars/origins-of-tech.md) | — | Reading group | 9 sessions | Austin, TX |
 | [AI & Human Autonomy](seminars/liberty-fund-autonomy.md) | Liberty Fund | Colloquium | 5 sessions | London |
 | [AI & the Republic of Science](seminars/liberty-fund-science.md) | Liberty Fund | Colloquium | 2 sessions | Austin, TX |
+| [AI & Technosocialism](seminars/liberty-fund-technosocialism.md) | Liberty Fund | Colloquium | 6 sessions | Savannah, GA |
 | [On Markets](seminars/mercatus-markets.md) | Mercatus Center | Fellowship | 6 sessions | Austin, TX |
 | [On Society](seminars/mercatus-society.md) | Mercatus Center | Fellowship | 6 sessions | Austin, TX |
 | [On Politics](seminars/mercatus-politics.md) | Mercatus Center | Fellowship | 6 sessions | Austin, TX |
@@ -69,6 +70,17 @@ This document synthesizes learnings from all seminars into a proposed 5-module c
 
 ---
 
+## Feedback
+
+Participant feedback from select programs:
+
+| Program | Recommend to Friend | Key Insight |
+|---------|---------------------|-------------|
+| [Oxford 2025](feedback/oxford-2025.md) | High | "Connecting theory with practice... affords a rare opportunity for people from a philosophy background to turn their academic interests into an area of real ethical puzzles" |
+| [Socrates Program 2025](feedback/socrates-program-2025.md) | 4.64/5 | "An expectation that AI research shops invest in and use philosophy to guide decision making" |
+
+---
+
 ## Navigation
 
 ```
@@ -80,9 +92,13 @@ academy-syllabi/
 │   ├── origins-of-tech.md
 │   ├── liberty-fund-autonomy.md
 │   ├── liberty-fund-science.md
+│   ├── liberty-fund-technosocialism.md
 │   ├── mercatus-markets.md
 │   ├── mercatus-society.md
 │   └── mercatus-politics.md
+├── feedback/
+│   ├── oxford-2025.md
+│   └── socrates-program-2025.md
 └── course-structure/
     └── ihs-master-course.md
 ```
