@@ -21,10 +21,10 @@ Cosmos Institute has run seminars across multiple formats and venues, testing di
 |---------|---------|--------|----------|----------|
 | [Oxford 2024](seminars/oxford-2024.md) | University of Oxford | Grad seminar | 8 weeks | Oxford, UK |
 | [Oxford 2025](seminars/oxford-2025.md) | University of Oxford | Grad seminar | 8 weeks | Oxford, UK |
-| [Aspen 2024](seminars/aspen-2024.md) | Aspen Institute | Executive seminar | 3 days | Aspen, CO |
+| [Socrates Program 2025](seminars/socrates-program-2025.md) | Aspen Institute | Executive seminar | 3 days | Aspen, CO |
 | [Intellectual Origins of Tech](seminars/origins-of-tech.md) | — | Reading group | 9 sessions | Austin, TX |
 | [AI & Human Autonomy](seminars/liberty-fund-autonomy.md) | Liberty Fund | Colloquium | 5 sessions | London |
-| [AI & the Republic of Science](seminars/liberty-fund-science.md) | Liberty Fund | Colloquium | 3 sessions | Austin, TX |
+| [AI & the Republic of Science](seminars/liberty-fund-science.md) | Liberty Fund | Colloquium | 2 sessions | Austin, TX |
 | [On Markets](seminars/mercatus-markets.md) | Mercatus Center | Fellowship | 6 sessions | Austin, TX |
 | [On Society](seminars/mercatus-society.md) | Mercatus Center | Fellowship | 6 sessions | Austin, TX |
 | [On Politics](seminars/mercatus-politics.md) | Mercatus Center | Fellowship | 6 sessions | Austin, TX |
@@ -76,7 +76,7 @@ academy-syllabi/
 ├── seminars/
 │   ├── oxford-2024.md
 │   ├── oxford-2025.md
-│   ├── aspen-2024.md
+│   ├── socrates-program-2025.md
 │   ├── origins-of-tech.md
 │   ├── liberty-fund-autonomy.md
 │   ├── liberty-fund-science.md

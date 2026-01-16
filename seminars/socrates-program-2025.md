@@ -1,7 +1,7 @@
 # Aspen Institute Socrates Seminar: Will AI Bring A New Enlightenment or Digital Despotism?
 
 **Format:** Executive seminar (Socrates Program)
-**Duration:** 3 days (July 2024)
+**Duration:** 3 days (July 2025)
 **Location:** Aspen, CO
 **Moderator:** Brendan McCord (Cosmos Institute)
 
