@@ -48,9 +48,28 @@ This document synthesizes learnings from all seminars into a proposed 5-module c
 
 ## The Philosopher-Builder
 
-[![Essay: The Philosopher-Builder](https://substack-post-media.s3.amazonaws.com/public/images/7b5ccc4d-88f1-4cb8-9ea4-011ef698be18_1500x1000.jpeg)](https://blog.cosmos-institute.org/p/the-philosopher-builder)
-
-[![Video: The Philosopher-Builder](https://img.youtube.com/vi/H_g0RSSo0ho/maxresdefault.jpg)](https://www.youtube.com/watch?v=H_g0RSSo0ho)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://blog.cosmos-institute.org/p/the-philosopher-builder">
+        <img src="https://substack-post-media.s3.amazonaws.com/public/images/7b5ccc4d-88f1-4cb8-9ea4-011ef698be18_1500x1000.jpeg" width="300" alt="The Philosopher-Builder Essay"/>
+      </a>
+      <br/>
+      <a href="https://blog.cosmos-institute.org/p/the-philosopher-builder"><b>The Philosopher-Builder</b></a>
+      <br/>
+      <sub>Essay</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.youtube.com/watch?v=H_g0RSSo0ho">
+        <img src="https://img.youtube.com/vi/H_g0RSSo0ho/maxresdefault.jpg" width="300" alt="The Philosopher-Builder Video"/>
+      </a>
+      <br/>
+      <a href="https://www.youtube.com/watch?v=H_g0RSSo0ho"><b>The Philosopher-Builder</b></a>
+      <br/>
+      <sub>Video</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
