@@ -1,16 +1,20 @@
 # Feedback: Oxford 2025
 
 **Program:** AI and Human Flourishing Graduate Seminar
+
 **Location:** University of Oxford
+
 **Partner:** HAI Lab, St Catherine's College
 
 ---
 
 ## Ratings
 
+*Not quantified; qualitative feedback only*
+
 | Category | Rating |
 |----------|--------|
-| Overall quality of the seminar series | Positive (see takeaways) |
+| Overall quality of the seminar series | Positive |
 | Format of the seminar series | Positive |
 
 ---
@@ -35,6 +39,7 @@
 
 ## Most Valuable Takeaways
 
+- "The seminar series opened my mind to this in a way I hadn't even imagined beforehand, and led me to seriously reevaluate my career decisions and interests; I am now very focused on working on AI."
 - "The ripeness of philosophical, technological, and social scientific commentaries on these questions when combined."
 - "Very structured and first principles philosophy concepts — I have not had formal learning in philosophy, and I found this series to be exceptional and elucidating key concepts relevant to the talks."
 - "That there is an ethical component that must be preserved."
@@ -43,7 +48,6 @@
 - "We need measurable ways to track the impact of these systems. Most AIs are judged on performance benchmarks but we need comprehensive views into the human element."
 - "It has given me a much better understanding of the more subtle threats that AI poses to human flourishing and ways to prevent these from materialising."
 - "Asking a model isn't decentralization, AI threatens to become autocomplete for life."
-- "The seminar series opened my mind to this in a way I hadn't even imagined beforehand, and led me to seriously reevaluate my career decisions and interests; I am now very focused on working on AI."
 
 ---
 
@@ -52,9 +56,9 @@
 | Session | Why |
 |---------|-----|
 | Ivan Vendrov (Collective Intelligence) | "Really changed how transformative AI can be" / "Raised interesting questions around how AI can shape the collective incentive landscape" |
+| Brendan's lectures | "Articulated in a very clear and foundationally constructive way the macro relationship between AI and Philosophy, especially on agency and autonomy" |
 | Week 2 (Inquiry Complex demo) | "A very innovative way of using a model and the presentation gave a very clear description of how philosophical ideas can be practically developed in code" |
 | Vincent (Prime Intellect) | "Showed in a very tangible way how powerful AI can/will be for innovation" |
-| Brendan's lectures | "Articulated in a very clear and foundationally constructive way the macro relationship between AI and Philosophy, especially on agency and autonomy" |
 | Habermas Machine | "A particularly interesting finding, and the presentation was clear" |
 
 ---
