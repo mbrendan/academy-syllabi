@@ -22,7 +22,7 @@ Cosmos Institute has run seminars across multiple formats and venues, testing di
 | [Oxford 2024](seminars/oxford-2024.md) | University of Oxford | Grad seminar | 8 weeks | Oxford, UK |
 | [Oxford 2025](seminars/oxford-2025.md) | University of Oxford | Grad seminar | 8 weeks | Oxford, UK |
 | [Socrates Program 2025](seminars/socrates-program-2025.md) | Aspen Institute | Executive seminar | 3 days | Aspen, CO |
-| [Summer Symposium 2025](seminars/st-johns-summer-2025.md) | St John's College | Summer symposium | 3 days | Santa Fe, NM |
+| [Summer Symposium 2025](seminars/st-johns-summer-2025.md) | St John's College | Summer symposium | 3 days | Annapolis, MD |
 | [Intellectual Origins of Tech](seminars/origins-of-tech.md) | — | Reading group | 9 sessions | Austin, TX |
 | [AI & Human Autonomy](seminars/liberty-fund-autonomy.md) | Liberty Fund | Colloquium | 5 sessions | London |
 | [AI & the Republic of Science](seminars/liberty-fund-science.md) | Liberty Fund | Colloquium | 2 sessions | Austin, TX |

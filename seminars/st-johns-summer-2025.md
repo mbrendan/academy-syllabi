@@ -2,7 +2,7 @@
 
 **Format:** Summer symposium
 **Duration:** 3 days (June 30 - July 2, 2025)
-**Location:** St John's College
+**Location:** St John's College, Annapolis, MD
 **Partners:** St John's College, Cosmos Institute
 
 ---
